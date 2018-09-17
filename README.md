@@ -1,1 +1,1 @@
-# git_test
+This is Garrett Ingemansen's first git project!
